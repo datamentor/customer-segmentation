@@ -10,7 +10,7 @@ O objetivo consiste em clusterizar os clientes, aplicando técnicas para problem
 [Clique aqui para ver todo Enunciado do Projeto!](https://8abd2cf6-47b0-4b44-88ed-e9dab4c590ad.filesusr.com/ugd/5fb293_64f386d6855b43e98460ef3d16dcb228.pdf)
 
 
-# References
+# Referências
 
 Muito obrigado à Richie NG pela ideia original do problema
 https://www.ritchieng.com/machine-learning-project-customer-segments/
